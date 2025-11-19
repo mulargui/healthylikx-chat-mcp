@@ -41,6 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 ux/webapp/build/
+jsdocs/docs/
 
 #dependencies
 package-lock.json
