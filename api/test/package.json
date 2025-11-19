@@ -1,0 +1,17 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.0.0"
+    },
+    "jest": {
+        "verbose": true,
+        "testEnvironment": "node",
+        "collectCoverage": false
+    },
+    "dependencies": {
+    "@aws-sdk/client-lambda": "^3.927.0",
+    "axios": "^1.7.9"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "bedrock": {
+      "model": "amazon.titan-text-lite-v1",
+      "maxTokens": 200,
+      "temperature": 0.7
+    }
+}
+  
